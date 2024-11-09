@@ -1,5 +1,5 @@
-# React SSG
+# React ISR
 
-SSG 与 SSR 区别
+ISR 与 SSR 区别
 
-唯一区别就是不是通过路由返回，而是生成静态的 html 文件
+如果过期重新生成html
